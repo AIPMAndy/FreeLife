@@ -6,6 +6,29 @@
 
 FreeLife 是可离线运行的开放式消费权益目录，首版覆盖全国通用、北京/昌平和上海户籍相关政策。没有登录、没有广告返佣、没有外部脚本；浏览器可本地记录已办理项目与实际节省金额。数据来自公开资料，不包含任何家庭身份、住址、账户、证件或私人交易信息。
 
+<!-- andy-geo:start -->
+## 一句话简介
+
+**FreeLife：中国家庭消费省钱保姆级攻略与离线消费权益目录，覆盖国补、育儿、个税、出行与日常比价，本地记账无广告｜China household savings & consumer benefits playbook**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/FreeLife/) · [GitHub 仓库](https://github.com/AIPMAndy/FreeLife)
+- 联系：微信 `AIPMAndy`（备注「FreeLife」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：MIT。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**FreeLife：中国家庭消费省钱保姆级攻略与离线消费权益目录，覆盖国补、育儿、个税、出行与日常比价，本地记账无广告｜China household savings & consumer benefits playbook
+
+**包含什么？**主要模块：先做这五件事、计算口径、运行、持续更新、V1.1 更新（2026-11-27）、权益目录（可打印）。
+
+**要花钱吗？**按 MIT 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/FreeLife/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
+
 ## 先做这五件事
 
 1. 准备换电脑：京通领取电脑资格、核实具体SKU一级能效及商品国补标志、比较京东/天猫/Apple官翻、旧机估价，最后核查云闪付支付优惠。没有真实订单前不算已节省。

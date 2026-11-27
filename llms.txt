@@ -1,0 +1,45 @@
+# FreeLife｜中国家庭消费省钱保姆级攻略
+
+> FreeLife：中国家庭消费省钱保姆级攻略与离线消费权益目录，覆盖国补、育儿、个税、出行与日常比价，本地记账无广告｜China household savings & consumer benefits playbook
+
+- 作者：AI酋长Andy（AIPMAndy），官网 https://metaver.vip/
+- 开源仓库：https://github.com/AIPMAndy/FreeLife
+- 在线地址：https://aipmandy.github.io/FreeLife/
+- 许可：MIT
+- 语言：中文（zh-CN）
+- 最近更新：2026-11-27
+
+## 这是什么
+
+在线查询https://aipmandy.github.io/FreeLife/ · 维护规则docs/MAINTAIN.md · AI 酋长 Andyhttps://metaver.vip/ · 公司官网https://www.a6no1.cn/ · 微信 AIPMAndy
+FreeLife 是可离线运行的开放式消费权益目录，首版覆盖全国通用、北京/昌平和上海户籍相关政策。没有登录、没有广告返佣、没有外部脚本；浏览器可本地记录已办理项目与实际节省金额。数据来自公开资料，不包含任何家庭身份、住址、账户、证件或私人交易信息。
+
+## 主要页面
+
+- [FreeLife · 家庭消费省钱攻略](https://aipmandy.github.io/FreeLife/)
+- [FreeLife · 家庭消费省钱攻略](https://aipmandy.github.io/FreeLife/scripts/template.html)
+
+## 内容目录
+
+- 先做这五件事
+- 计算口径
+- 运行
+- 持续更新
+- V1.1 更新（2026-11-27）
+- 权益目录（可打印）
+
+## 关键事实
+
+- 名称：FreeLife｜中国家庭消费省钱保姆级攻略
+- 类型：中文开源项目
+- 许可：MIT
+- 语言：中文
+- 最近更新：2026-11-27
+- 仓库：https://github.com/AIPMAndy/FreeLife
+
+## 相关链接
+
+- [作者官网](https://metaver.vip/)
+- [GitHub 主页](https://github.com/AIPMAndy/AIPMAndy)
+- [开源总目录](https://aipmandy.github.io/)
+- [机器可读摘要](https://aipmandy.github.io/FreeLife/llms.txt)
