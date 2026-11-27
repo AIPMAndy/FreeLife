@@ -2,6 +2,8 @@
 
 > 不为优惠而消费；只降低原本就需要发生的支出。更新基准：2026-11-27（中国标准时间）。
 
+[在线查询](https://aipmandy.github.io/FreeLife/) · [维护规则](docs/MAINTAIN.md) · [AI 酋长 Andy](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/) · 微信 `AIPMAndy`
+
 FreeLife 是可离线运行的开放式消费权益目录，首版覆盖全国通用、北京/昌平和上海户籍相关政策。没有登录、没有广告返佣、没有外部脚本；浏览器可本地记录已办理项目与实际节省金额。数据来自公开资料，不包含任何家庭身份、住址、账户、证件或私人交易信息。
 
 ## 先做这五件事
@@ -27,7 +29,7 @@ FreeLife 是可离线运行的开放式消费权益目录，首版覆盖全国�
 
 每周检查官方入口、活动日期、申请资格、剩余库存；新增条目先核原文后提交。临时优惠注明活动日期、适用区域、账号门槛和叠加条件；过期项目自动标识，不静默删除。详细规则见 `docs/MAINTAIN.md`。
 
-作者主页：https://metaver.vip/ ｜ GitHub：https://github.com/AIPMAndy
+在线网站：[aipmandy.github.io/FreeLife](https://aipmandy.github.io/FreeLife/) ｜ 个人官网：[metaver.vip](https://metaver.vip/) ｜ 公司官网：[www.a6no1.cn](https://www.a6no1.cn/) ｜ 微信：`AIPMAndy` ｜ GitHub：[AIPMAndy](https://github.com/AIPMAndy)
 
 ## V1.1 更新（2026-11-27）
 
@@ -470,3 +472,7 @@ FreeLife 是可离线运行的开放式消费权益目录，首版覆盖全国�
 限制：不要用破解软件、来路不明账号或违反服务条款的方法；免费不等于无维护成本。
 
 来源：[方法/官方入口](https://github.com/)（核查 2026-11-27）
+
+---
+
+**AI 酋长 Andy · 星觉科技** — [在线网站](https://aipmandy.github.io/FreeLife/) · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/) · 微信 `AIPMAndy` · [GitHub](https://github.com/AIPMAndy)
